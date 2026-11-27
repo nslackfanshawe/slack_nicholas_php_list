@@ -42,7 +42,7 @@ $results = mysqli_fetch_all($query, MYSQLI_ASSOC);
 
             <p class="col-span-full">
                 Explore the opening ten books of the Horus Heresy series.
-                Discover the authors, stories and genres behind each novel.
+                Read about the epic backstory of Warhammer 40,000, set 10,000 years in the past. 
             </p>
 
         </section>
